@@ -1,0 +1,5 @@
+title: Simple Bash template
+
+plan:
+  - title: Bash Snippet
+    statement: statement.md
